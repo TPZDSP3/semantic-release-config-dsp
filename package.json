@@ -1,5 +1,5 @@
 {
-  "name": "@tpz-dsp/semantic-release-config-dsp",
+  "name": "@tpzdsp/semantic-release-config-dsp",
   "version": "1.0.0",
   "description": "re-usable config for semantic-release",
   "main": "release.config.js",
