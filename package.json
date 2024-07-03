@@ -1,5 +1,5 @@
 {
-  "name": "@mark-small/semantic-release-config-marksmall",
+  "name": "@tpz-dsp/semantic-release-config-dsp",
   "version": "1.0.1",
   "description": "re-usable config for semantic-release",
   "main": "release.config.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/marksmall/semantic-release-config-marksmall.git"
+    "url": "git+https://github.com/tpzdsp3/semantic-release-config-dsp.git"
   },
   "keywords": [
     "semantic-release",
@@ -18,9 +18,9 @@
   "author": "Mark Small <marksmall@gmx.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/marksmall/semantic-release-config-marksmall/issues"
+    "url": "https://github.com/tpzdsp3/semantic-release-config-dsp/issues"
   },
-  "homepage": "https://github.com/marksmall/semantic-release-config-marksmall#readme",
+  "homepage": "https://github.com/tpzdsp3/semantic-release-config-dsp#readme",
   "peerDependencies": {
     "semantic-release": "^19.0.5"
   },
