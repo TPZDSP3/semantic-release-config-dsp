@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/tpzdsp3/semantic-release-config-dsp/compare/v1.0.0...v1.0.1) (2024-07-03)
+
+
+### Bug Fixes
+
+* **project:** Update name to be correct ([b89f6e2](https://github.com/tpzdsp3/semantic-release-config-dsp/commit/b89f6e270142527c757e12e3c56f504b9a2e09b9))
+
 # 1.0.0 (2024-07-03)
 
 
